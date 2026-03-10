@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi 👋 I'm Kavya Suma Vooka
 
-<!--
-**VookaKavyaSuma/VookaKavyaSuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+💻 Passionate about Full Stack Development and AI-powered applications
+🚀 Building real-world software solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+* 🎓 2nd Year B.Tech Computer Science Student
+* 🌱 Currently learning **Full Stack Development**
+* 🤖 Interested in **AI-powered applications and smart systems**
+* 🔭 Working on innovative projects that solve real-world problems
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+C • Java • JavaScript
+
+**Frontend**
+HTML • CSS • React
+
+**Backend**
+Node.js • Express.js
+
+**Database**
+MongoDB
+
+**Tools**
+Git • GitHub • VS Code
+
+---
+
+## 🚀 Projects
+
+### 🏥 MediVault
+
+A secure digital platform for managing and storing medical records.
+
+**Features**
+
+* Secure storage of medical reports
+* Easy search and retrieval of patient data
+* Organized health history tracking
+
+**Tech Stack**
+React • Node.js • Express • MongoDB
+
+---
+
+### 🤖 Campus AI Hub
+
+A platform that provides AI-powered tools and resources for students.
+
+**Features**
+
+* AI tools for productivity and learning
+* Smart search and recommendations
+* Centralized platform for campus tech resources
+
+**Tech Stack**
+React • Node.js • AI APIs • MongoDB
+
+---
+
+## 🌟 Goals
+
+* Build impactful software projects
+* Contribute to open-source projects
+* Become a skilled Full Stack Developer
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn
+Email
