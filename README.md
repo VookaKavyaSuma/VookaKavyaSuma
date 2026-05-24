@@ -1,4 +1,4 @@
-# Hi 👋 I'm Kavya Suma Vooka
+# Hi 👋 I'm Vooka Kavya Suma
 
 🎓 B.Tech CSE Student
 💻 Passionate about Full Stack Development and AI-powered applications
