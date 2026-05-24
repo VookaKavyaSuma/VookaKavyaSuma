@@ -76,5 +76,5 @@ React • Node.js • AI APIs • MongoDB
 
 ## 📫 Connect With Me
 
-LinkedIn
-Email
+[LinkedIn](https://www.linkedin.com/in/kavyasumavooka)
+[Email](mailto:vookakavyasuma@gmail.com)
