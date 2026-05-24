@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 2nd Year B.Tech Computer Science Student
+* 🎓 3rd Year B.Tech Computer Science Student
 * 🌱 Currently learning **Full Stack Development**
 * 🤖 Interested in **AI-powered applications and smart systems**
 * 🔭 Working on innovative projects that solve real-world problems
@@ -18,7 +18,7 @@
 ## 🛠 Tech Stack
 
 **Languages**
-C • Java • JavaScript
+C • Java • Python • JavaScript
 
 **Frontend**
 HTML • CSS • React
